@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/pavankumarkasu3" target="blank"><img src="https://img.shields.io/twitter/follow/pavankumarkasu3?logo=twitter&style=for-the-badge" alt="pavankumarkasu3" /></a> </p>
 
-- 🔭 I’m currently working on **Freelance Portal**
+- 🔭 I’m currently working on **Freelance Portal and Real Estate Web**
 
 - 🌱 I’m currently learning **Artificial Intelligence,React.Js**
 
