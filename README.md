@@ -9,15 +9,15 @@
 
 - 🔭 I’m currently working on **AI PROJECT'S and Real Estate Website**
 
-- 🌱 I’m currently learning **Artificial Intelligence,LLM'S**
+- 🌱 I’m currently learning **Artificial Intelligence,LLM'S,System Design**
 
 - 👯 I’m looking to collaborate on **Open Source Projects related to Web Development**
 
 - 🤝 I’m looking for help with **Artificial Intelligence technologies**
 
-- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/pavankumarkasula73linkden/](https://www.linkedin.com/in/pavankumarkasula73linkden/)
+- 👨‍💻 All of my projects are available at (https://github.com/pavankumarkasula73)
 
-- 💬 Ask me about **Python,MachineLearning,WebDevlopement**
+- 💬 Tech Content Creater
 
 - 📫 How to reach me **pavankumarkasula73@gmail.com**
 
