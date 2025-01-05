@@ -7,8 +7,6 @@
 
 <p align="left"> <a href="https://twitter.com/pavankumarkasu3" target="blank"><img src="https://img.shields.io/twitter/follow/pavankumarkasu3?logo=twitter&style=for-the-badge" alt="pavankumarkasu3" /></a> </p>
 
-## Hi there 👋 I'm K. Pavan Kumar
-
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue)](https://pavan-kumar.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/pavankumarkasula73linkden)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black)](https://github.com/pavankumarkasula73)
@@ -37,7 +35,7 @@ I am a highly motivated B.Tech student specializing in Artificial Intelligence a
 
 ## Projects
 - **Personal Portfolio:** Showcases my projects and skills using HTML, CSS, and JavaScript. [Visit Portfolio](https://pavan-kumar.vercel.app)
-- **PavanGPT (Gemini.AI Clone):** Created a conversational AI application using React.js and Google APIs. [View Project](https://pavan-gpt-geminiclone.vercel.app/)
+- **Student Performance Predictor :** This project uses machine learning to predict student performance based on three key factors: attendance, assignments, and test scores. [View Project]([(https://github.com/pavankumarkasula73/Student-Performance-Predictor)])
 - **Dynamic Vehicle Identification System:** Built a Python and Django-based system for vehicle tracking. [GitHub Repo](https://github.com/pavankumarkasula73/Dynamic-Vehicle-Identification-and-Tracker)
 - Machine Learning Projects - This MachineLearning Projects describes the Prediction of various frauds and detecting Solutions to Various Fields. [Live Demo](https://github.com/pavankumarkasula73/MachineLearning-Projects)
 - **Role-Based Access Control (RBAC):** Implemented core RBAC principles using JavaScript, TypeScript, and HTML. [Live Demo](https://role-based-access-control-rbac-ui-kasula-pavan-kumar.vercel.app/)
