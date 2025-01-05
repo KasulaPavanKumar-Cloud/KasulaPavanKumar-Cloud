@@ -104,7 +104,7 @@ Hello World! 🌍 I'm a **B.Tech AI student at Parul University** with a passion
 ## 📫 Let's Connect 🌐
 
 - 📧 **Email:** [sendmailtop1@gmail.com](mailto:sendmailtop1@gmail.com)  
-- 📱 **Phone:** +91 7780181777  
+- 📱 **Phone:** +91 India  
 - 🔗 **GitHub:** [pavankumarkasula73](https://github.com/pavankumarkasula73)  
 - 💼 **LinkedIn:** [pavankumarkasula73](https://linkedin.com/in/pavankumarkasula73linkden)  
 - 🌐 **Portfolio:** [Visit My Portfolio](https://pavan-kumar.vercel.app)  
