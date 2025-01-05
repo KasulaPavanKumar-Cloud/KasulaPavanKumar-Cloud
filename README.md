@@ -24,23 +24,29 @@ I am a highly motivated B.Tech student specializing in Artificial Intelligence a
 - **Frameworks & Technologies:** Django, React.js, Google APIs
 
 ## Work Experience
+
+### Full Stack Developer | Quamin Tech Solutions LLP | (Nov 2024 - May 2025)
+- we as a Team working on a Project to Provide better services for farmers.
+  
 ### Full Stack Intern | Infosys Springboard (Sep 2024 – Nov 2024)
 - Developed a dynamic vehicle identification and tracking system.
 
 ### Learning & Development Intern | Bytexl (Dec 2023 – Feb 2024)
 - Collaborated on a team to create content creation and management solutions.
 
+
 ## Projects
 - **Personal Portfolio:** Showcases my projects and skills using HTML, CSS, and JavaScript. [Visit Portfolio](https://pavan-kumar.vercel.app)
 - **PavanGPT (Gemini.AI Clone):** Created a conversational AI application using React.js and Google APIs. [View Project](https://pavan-gpt-geminiclone.vercel.app/)
 - **Dynamic Vehicle Identification System:** Built a Python and Django-based system for vehicle tracking. [GitHub Repo](https://github.com/pavankumarkasula73/Dynamic-Vehicle-Identification-and-Tracker)
+- Machine Learning Projects - This MachineLearning Projects describes the Prediction of various frauds and detecting Solutions to Various Fields. [Live Demo](https://github.com/pavankumarkasula73/MachineLearning-Projects)
 - **Role-Based Access Control (RBAC):** Implemented core RBAC principles using JavaScript, TypeScript, and HTML. [Live Demo](https://role-based-access-control-rbac-ui-kasula-pavan-kumar.vercel.app/)
 
 ## Education
 - **B.Tech in Artificial Intelligence | Parul University** (2021 – Present)  
-  CGPA: 6.9  
+  
 - **Intermediate Education (MPC) | Sri Chaitanya Junior College** (2019 – 2021)  
-  Percentage: 76.4%
+  
 
 ## Certifications
 - Salesforce LWC (Udemy)
