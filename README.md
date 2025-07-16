@@ -59,17 +59,8 @@ Hello World! 🌍 I'm a **B.Tech AI student at Parul University** with a passion
 - 🌐 **[Personal Portfolio](https://pavan-kumar.vercel.app)**  
   Showcasing my journey, projects, and achievements!
 
-- 📊 **[Student Performance Predictor](https://github.com/pavankumarkasula73/Student-Performance-Predictor)**  
-  ML-based model predicting student outcomes based on real-time data.
-
-- 🍲 **[Food Delivery App](https://github.com/pavankumarkasula73/Food-Delivery-App)**  
-  The Food Delivery App is designed to provide users with a seamless food ordering experience.
-
 - 🏎️ **[Dynamic Vehicle Identification System](https://github.com/pavankumarkasula73/Dynamic-Vehicle-Identification-and-Tracker)**  
   Python and Django-based system for tracking vehicles.
-
-- 🌈 **[Role-Based Access Control (RBAC)](https://role-based-access-control-rbac-ui-kasula-pavan-kumar.vercel.app/)**  
-  Implemented RBAC principles with a modern UI using React and TypeScript.
 
 ---
 
