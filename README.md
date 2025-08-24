@@ -61,11 +61,7 @@ I love solving real-world problems through cloud automation, infrastructure as c
 
 ### 🧠 Intern | **Infosys Springboard** | 🗓️ Sep 2024 - Nov 2024  
 - Built a **Vehicle Tracking System** with Python & Django  
-- Used REST APIs and database integration for real-time insights  
-
-### 🌐 Web Intern | **Bytexl** | 🗓️ Dec 2023 - Feb 2024  
-- Designed responsive UI and integrated Firebase  
-- Worked on user-friendly dashboards and secure login systems  
+- Used REST APIs and database integration for real-time insights   
 
 ---
 
