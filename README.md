@@ -78,7 +78,7 @@ I love solving real-world problems through cloud automation, infrastructure as c
 
 ## 🎓 Education
 
-- 🎓 **B.Tech in Artificial Intelligence** – *Parul University* (2021 – Present)  
+- 🎓 **B.Tech in Artificial Intelligence** – *Parul University* (2021 – 2025)  
 - 🧮 **Intermediate (MPC)** – *Sri Chaitanya Junior College* (2019 – 2021)
 
 ---
