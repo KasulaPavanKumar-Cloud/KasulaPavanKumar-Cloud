@@ -66,13 +66,15 @@ I love solving real-world problems through cloud automation, infrastructure as c
 ---
 
 ## 🚀 Projects
+**✈️ Serverless Airline Booking System**
 
-- 🚗 **[Dynamic Vehicle Tracker](https://github.com/pavankumarkasula73/Dynamic-Vehicle-Identification-and-Tracker)**  
-  Django-based project for real-time vehicle identification and tracking.
-- Some AWS Projects(3-tier and site to site connection & etc..)
+Serverless airline ticket booking system where users can search flights, book tickets, and receive confirmation via email/SMS. Integrated with AWS S3, API Gateway, Lambda, DynamoDB, SES, SNS, Route 53, CloudFront, and custom domain + SSL for secure access.  
 
-- ⚙️ **CI/CD Pipeline Demo (Coming Soon)**  
-  End-to-end CI/CD using GitHub Actions and Docker on AWS EC2.
+**🚗 Dynamic Vehicle Tracker**
+
+Django-based project for real-time vehicle identification and tracking.
+
+**☁️ Some AWS Projects (3-tier architecture, Site-to-Site VPN, etc.)**
 
 ---
 
