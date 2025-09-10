@@ -22,7 +22,7 @@
 
 Hey there! I'm a passionate **Cloud Developer** specializing in **AWS** and **DevOps practices** ☁️. Currently diving deep into **Azure** and **Google Cloud Platform (GCP)** to expand my multi-cloud skills.
 
-🎓 I'm Graduated from **B.Tech in Artificial Intelligence** from **Parul University**, with additional experience in **AI/ML **.
+🎓 I'm Graduated from **B.Tech in Artificial Intelligence** from **Parul University**, with learning & Practical experience in **AI/ML & Cloud Infrastructure **.
 
 I love solving real-world problems through cloud automation, infrastructure as code, and intelligent systems.
 
