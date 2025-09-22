@@ -100,7 +100,7 @@ Django-based project for real-time vehicle identification and tracking.
 ## 📫 Let's Connect
 
 - 📧 **Email:** [sendmailtop1@gmail.com](mailto:sendmailtop1@gmail.com)  
-- 🌐 **Portfolio:** [pavan-kumar.vercel.app](https://pavan-kumar.vercel.app)  
+- 🌐 **Portfolio:** **updating**  
 - 🔗 **LinkedIn:** [pavankumarkasula](https://linkedin.com/in/pavankumarkasulalinkden)  
 - 🐙 **GitHub:** [@pavankumarkasula](https://github.com/pavankumarkasula73)  
 - 📱 **Phone:** +91 India  
