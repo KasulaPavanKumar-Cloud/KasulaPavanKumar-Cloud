@@ -88,9 +88,9 @@ Django-based project for real-time vehicle identification and tracking.
 ## 🏅 Certifications
 
 - 📜 **Infosys Springboard – AI Certification**  
-- 🧠 **Advanced SQL – HackerRank**  
+- 🧠 **Linux: Basic to Advanced– Udemy**  
 - 🤖 **Salesforce AI Associate**  
-- 🌐 **Python Django Web Development**  
+- 🌐 **AWS Project Submission Certificate– Vcube Software solutions Ltd**  
 
 📁 [**View Certificates**](https://drive.google.com/file/d/1FFVK5nuJVSpeuQo4PdAN8_cXX7kl1fZT/view?usp=sharing)
 
