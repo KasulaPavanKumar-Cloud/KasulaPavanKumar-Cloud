@@ -49,21 +49,6 @@ I love solving real-world challenges through **cloud automation**, **infrastruct
 
 ---
 
-## 📊 GitHub Stats & Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pavankumarkasula73&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pavankumarkasula73&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pavankumarkasula73&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
-
 ## 💼 Experience
 
 ### ☁️ ML & Full Stack Developer Intern | **Quamin Tech Solutions LLP** | 🗓️ Nov 2024 - May 2025
