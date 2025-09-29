@@ -1,80 +1,101 @@
-# 👋 Hi, I'm Kasula Pavan Kumar
-
-## ☁️ Cloud Developer | DevOps Enthusiast | AI Explorer 🚀
+<h1 align="center">Hi 👋, I'm Kasula Pavan Kumar</h1>
+<h3 align="center">☁️ Cloud Developer | DevOps Enthusiast | AI Explorer 🚀</h3>
 
 ---
 
-![Profile Views](https://komarev.com/ghpvc/?username=pavankumarkasula73&label=Profile%20views&color=0e75b6&style=flat)
-[![Twitter Follow](https://img.shields.io/twitter/follow/pavankumarkasu3?logo=twitter&style=for-the-badge)](https://twitter.com/pavankumarkasu3)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge)](https://linkedin.com/in/pavankumarkasulalinkden)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=pavankumarkasula73&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  <a href="https://twitter.com/pavankumarkasu3" target="_blank">
+    <img src="https://img.shields.io/twitter/follow/pavankumarkasu3?logo=twitter&style=for-the-badge" alt="Twitter Follow" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://linkedin.com/in/pavankumarkasulalinkden" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge" alt="LinkedIn Badge" />
+  </a>
+</p>
 
 ---
 
 ## 👨‍💻 About Me
 
-Hello! I'm a **Cloud Developer** and **DevOps Enthusiast** with a passion for leveraging cloud platforms to build scalable, efficient, and automated systems. I specialize in **AWS**, **Azure**, and **Google Cloud Platform (GCP)**, along with tools and practices that empower cloud-native solutions.
+I'm a passionate **Cloud Developer** from India, focusing on **AWS**, **Azure**, and **GCP**. I specialize in building scalable systems using DevOps practices, automation tools, and backend intelligence.
 
-- 🎓 **B.Tech in Artificial Intelligence** from **Parul University**
-- 🌍 Exploring **AI/ML**, **Cloud Infrastructure**, and **Automation**
-- Currently diving into **Azure** & **GCP** to broaden my multi-cloud expertise
-
-I love solving real-world challenges through **cloud automation**, **infrastructure as code**, and **intelligent systems**.
+🎓 **B.Tech in Artificial Intelligence** – *Parul University*  
+🌱 Currently exploring **multi-cloud** deployments and **AI integration**  
+💡 Interested in **automation**, **IaC**, **serverless**, and **intelligent cloud apps**
 
 ---
 
-## 🚀 Skills & Tools
+## 🛠️ Languages and Tools
 
-### ☁️ Cloud Platforms
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-
-### ⚙️ DevOps & Tools
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-
-### 👨‍💻 Programming Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-### 🧠 AI & Backend Technologies
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-
----
+<p align="left">
+  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
+  </a>
+  <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/>
+  </a>
+  <a href="https://cloud.google.com" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/>
+  </a>
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
+  </a>
+  <a href="https://kubernetes.io" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/>
+  </a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+  </a>
+  <a href="https://www.jenkins.io" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/>
+  </a>
+  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
+  </a>
+  <a href="https://www.selenium.dev" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/>
+  </a>
+  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  </a>
+  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40"/>
+  </a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+  </a>
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
+  </a>
+</p>
 
 ---
 
 ## 💼 Experience
 
-### ☁️ ML & Full Stack Developer Intern | **Quamin Tech Solutions LLP** | 🗓️ Nov 2024 - May 2025
+### ☁️ ML & Full Stack Developer Intern — **Quamin Tech Solutions LLP** *(Nov 2024 – May 2025)*  
 - Built cloud-based architecture for agriculture platforms using AWS services  
-- Implemented automation workflows and monitoring tools for real-time tracking and scalability  
+- Implemented DevOps workflows and monitoring tools  
 
-### 🧠 Intern | **Infosys Springboard** | 🗓️ Sep 2024 - Nov 2024
-- Built a **Vehicle Tracking System** with **Python** & **Django**  
-- Integrated REST APIs for real-time vehicle tracking and database integration  
+### 🧠 Intern — **Infosys Springboard** *(Sep 2024 – Nov 2024)*  
+- Developed **Vehicle Tracking System** using Python & Django  
+- Integrated REST APIs and real-time database sync  
 
 ---
 
 ## 🚀 Projects
 
-### ✈️ Serverless Airline Booking System
-A serverless application built on **AWS** for booking airline tickets. The system allows users to search and book flights, receive confirmations via **Email/SMS**, and utilizes several AWS services such as:
-- **API Gateway**, **Lambda**, **S3**, **DynamoDB**, **SES**, **SNS**, **Route 53**, **CloudFront**, **SSL/TLS**
+- **✈️ Serverless Airline Booking System**  
+  Built with AWS S3, API Gateway, Lambda, DynamoDB, SES, SNS, CloudFront, Route 53 — secure, scalable, and serverless.
 
-### 🚗 Dynamic Vehicle Tracker
-A Django-based solution for real-time vehicle tracking and identification.  
-Uses **Python**, **Django**, **REST APIs**, and integrates with location services.
+- **🚗 Dynamic Vehicle Tracker**  
+  Django-based project for real-time vehicle identification and tracking with REST APIs.
 
-### ☁️ AWS Infrastructure Projects
-- **3-tier architecture**  
-- **Site-to-Site VPN**  
-- **CI/CD Pipelines with AWS CodePipeline**  
+- **☁️ AWS Projects**  
+  3-tier architecture | Site-to-Site VPN | CI/CD with CodePipeline
 
 ---
 
@@ -90,21 +111,20 @@ Uses **Python**, **Django**, **REST APIs**, and integrates with location service
 - 📜 **Infosys Springboard – AI Certification**  
 - 🧠 **Linux: Basic to Advanced – Udemy**  
 - 🤖 **Salesforce AI Associate**  
-- 🌐 **AWS Project Submission Certificate – Vcube Software Solutions Ltd**  
+- 🌐 **AWS Project Certificate – Vcube Software Solutions Ltd**  
 
-📁 [**View Certificates**](https://drive.google.com/file/d/1FFVK5nuJVSpeuQo4PdAN8_cXX7kl1fZT/view?usp=sharing)
-
----
-
-## 📫 Let's Connect
-
-- 📧 **Email:** [sendmailtop1@gmail.com](mailto:sendmailtop1@gmail.com)  
-- 🌐 **Portfolio:** *updating*  
-- 🔗 **LinkedIn:** [pavankumarkasula](https://linkedin.com/in/pavankumarkasulalinkden)  
-- 🐙 **GitHub:** [@pavankumarkasula](https://github.com/pavankumarkasula73)  
-- 📱 **Phone:** +91 India
+📁 [**View My Certificates**](https://drive.google.com/file/d/1FFVK5nuJVSpeuQo4PdAN8_cXX7kl1fZT/view?usp=sharing)
 
 ---
 
-### ✨ Fun Fact:
-I’m passionate about building things that scale—whether it’s on the cloud or in life! 🚀
+## 📫 Connect with Me
+
+- 📧 **Email**: [sendmailtop1@gmail.com](mailto:sendmailtop1@gmail.com)  
+- 🔗 **LinkedIn**: [pavankumarkasula](https://linkedin.com/in/pavankumarkasulalinkden)  
+- 🐙 **GitHub**: [@pavankumarkasula73](https://github.com/pavankumarkasula73)  
+- 🌐 **Portfolio**: *Updating Soon*
+
+---
+
+### ✨ Fun Fact  
+I love building things that scale – in the cloud and in life! 🚀
