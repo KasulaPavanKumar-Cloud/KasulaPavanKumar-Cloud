@@ -1,41 +1,35 @@
-<h1 align="center">Hi 👋, I'm Kasula Pavan Kumar</h1>
-<h3 align="center">☁️ Cloud Developer | DevOps Enthusiast | AI Explorer 🚀</h3>
+# 👋 Hi, I'm Kasula Pavan Kumar
+
+## ☁️ Cloud Developer | DevOps Enthusiast | AI Explorer 🚀
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=pavankumarkasula73&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-  <a href="https://twitter.com/pavankumarkasu3" target="_blank">
-    <img src="https://img.shields.io/twitter/follow/pavankumarkasu3?logo=twitter&style=for-the-badge" alt="Twitter Follow" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://linkedin.com/in/pavankumarkasulalinkden" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge" alt="LinkedIn Badge" />
-  </a>
-</p>
+![Profile Views](https://komarev.com/ghpvc/?username=pavankumarkasula73&label=Profile%20views&color=0e75b6&style=flat)
+[![Twitter Follow](https://img.shields.io/twitter/follow/pavankumarkasu3?logo=twitter&style=for-the-badge)](https://twitter.com/pavankumarkasu3)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge)](https://linkedin.com/in/pavankumarkasulalinkden)
 
 ---
 
 ## 👨‍💻 About Me
 
-Hey there! I'm a passionate **Cloud Developer** specializing in **AWS** and **DevOps practices** ☁️. Currently diving deep into **Azure** and **Google Cloud Platform (GCP)** to expand my multi-cloud skills.
+Hello! I'm a **Cloud Developer** and **DevOps Enthusiast** with a passion for leveraging cloud platforms to build scalable, efficient, and automated systems. I specialize in **AWS**, **Azure**, and **Google Cloud Platform (GCP)**, along with tools and practices that empower cloud-native solutions.
 
-🎓 I'm Graduated from **B.Tech in Artificial Intelligence** from **Parul University**, with learning & Practical experience in **AI/ML & Cloud Infrastructure **.
+- 🎓 **B.Tech in Artificial Intelligence** from **Parul University**
+- 🌍 Exploring **AI/ML**, **Cloud Infrastructure**, and **Automation**
+- Currently diving into **Azure** & **GCP** to broaden my multi-cloud expertise
 
-I love solving real-world problems through cloud automation, infrastructure as code, and intelligent systems.
+I love solving real-world challenges through **cloud automation**, **infrastructure as code**, and **intelligent systems**.
 
 ---
 
 ## 🚀 Skills & Tools
 
-### ☁️ Cloud Platforms:
+### ☁️ Cloud Platforms
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 
-### ⚙️ DevOps & Tools:
+### ⚙️ DevOps & Tools
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
@@ -43,10 +37,10 @@ I love solving real-world problems through cloud automation, infrastructure as c
 ![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 
-### 👨‍💻 Programming:
+### 👨‍💻 Programming Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-### 🧠 AI & Backend:
+### 🧠 AI & Backend Technologies
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -55,26 +49,30 @@ I love solving real-world problems through cloud automation, infrastructure as c
 
 ## 💼 Experience
 
-### ☁️ ML & Full Stack Developer Intern | **Quamin Tech Solutions LLP** | 🗓️ Nov 2024 - May 2025  
+### ☁️ ML & Full Stack Developer Intern | **Quamin Tech Solutions LLP** | 🗓️ Nov 2024 - May 2025
 - Built cloud-based architecture for agriculture platforms using AWS services  
-- Implemented automation workflows and monitoring tools  
+- Implemented automation workflows and monitoring tools for real-time tracking and scalability  
 
-### 🧠 Intern | **Infosys Springboard** | 🗓️ Sep 2024 - Nov 2024  
-- Built a **Vehicle Tracking System** with Python & Django  
-- Used REST APIs and database integration for real-time insights   
+### 🧠 Intern | **Infosys Springboard** | 🗓️ Sep 2024 - Nov 2024
+- Built a **Vehicle Tracking System** with **Python** & **Django**  
+- Integrated REST APIs for real-time vehicle tracking and database integration  
 
 ---
 
 ## 🚀 Projects
-**✈️ Serverless Airline Booking System**
 
-Serverless airline ticket booking system where users can search flights, book tickets, and receive confirmation via email/SMS. Integrated with AWS S3, API Gateway, Lambda, DynamoDB, SES, SNS, Route 53, CloudFront, and custom domain + SSL for secure access.  
+### ✈️ Serverless Airline Booking System
+A serverless application built on **AWS** for booking airline tickets. The system allows users to search and book flights, receive confirmations via **Email/SMS**, and utilizes several AWS services such as:
+- **API Gateway**, **Lambda**, **S3**, **DynamoDB**, **SES**, **SNS**, **Route 53**, **CloudFront**, **SSL/TLS**
 
-**🚗 Dynamic Vehicle Tracker**
+### 🚗 Dynamic Vehicle Tracker
+A Django-based solution for real-time vehicle tracking and identification.  
+Uses **Python**, **Django**, **REST APIs**, and integrates with location services.
 
-Django-based project for real-time vehicle identification and tracking.
-
-**☁️ Some AWS Projects (3-tier architecture, Site-to-Site VPN, etc.)**
+### ☁️ AWS Infrastructure Projects
+- **3-tier architecture**  
+- **Site-to-Site VPN**  
+- **CI/CD Pipelines with AWS CodePipeline**  
 
 ---
 
@@ -88,24 +86,23 @@ Django-based project for real-time vehicle identification and tracking.
 ## 🏅 Certifications
 
 - 📜 **Infosys Springboard – AI Certification**  
-- 🧠 **Linux: Basic to Advanced– Udemy**  
+- 🧠 **Linux: Basic to Advanced – Udemy**  
 - 🤖 **Salesforce AI Associate**  
-- 🌐 **AWS Project Submission Certificate– Vcube Software solutions Ltd**  
+- 🌐 **AWS Project Submission Certificate – Vcube Software Solutions Ltd**  
 
 📁 [**View Certificates**](https://drive.google.com/file/d/1FFVK5nuJVSpeuQo4PdAN8_cXX7kl1fZT/view?usp=sharing)
 
----
 ---
 
 ## 📫 Let's Connect
 
 - 📧 **Email:** [sendmailtop1@gmail.com](mailto:sendmailtop1@gmail.com)  
-- 🌐 **Portfolio:** **updating**  
+- 🌐 **Portfolio:** *updating*  
 - 🔗 **LinkedIn:** [pavankumarkasula](https://linkedin.com/in/pavankumarkasulalinkden)  
 - 🐙 **GitHub:** [@pavankumarkasula](https://github.com/pavankumarkasula73)  
-- 📱 **Phone:** +91 India  
+- 📱 **Phone:** +91 India
 
 ---
 
-### ✨ Fun Fact:  
-I’m passionate about building things that scale — whether it's on the cloud or in life 🚀
+### ✨ Fun Fact:
+I’m passionate about building things that scale—whether it’s on the cloud or in life! 🚀
