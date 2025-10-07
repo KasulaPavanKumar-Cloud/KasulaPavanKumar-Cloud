@@ -113,7 +113,7 @@ Real-time vehicle tracking system using Django, SQLite, and REST APIs
 
 ## 📫 Connect with Me
 
-- 📧 **Email**: [sendmailtop1@gmail.com](mailto:sendmailtop1@gmail.com)  
+- 📧 **Email**: [pavankumarkasula73@gmail.com](mailto:pavankumarkasula73@gmail.com)  
 - 🔗 **LinkedIn**: [pavankumarkasulalinkden](https://linkedin.com/in/pavankumarkasulalinkden)  
 - 🐙 **GitHub**: [@kasulapavankumar-cloud](https://github.com/kasulapavankumar-cloud)  
 - 🐦 **Twitter**: [@pavankumarkasu3](https://twitter.com/pavankumarkasu3)  
