@@ -63,35 +63,34 @@ I'm a passionate **Cloud Developer** from India, focusing on **AWS**, **Azure**,
 Built with AWS S3, API Gateway, Lambda, DynamoDB, SES, SNS, CloudFront, Route 53  
 ➡️ Scalable, secure, and fully serverless travel solution  
 
-### 🚗 Dynamic Vehicle Tracker  
-Real-time vehicle tracking system using Django, SQLite, and REST APIs  
-
 ### 🏗️ AWS Cloud Architecture Projects  
 - **3-tier Web App Infrastructure**  
 - **CI/CD pipeline using CodePipeline, Jenkins, and GitHub**  
 - **Site-to-Site VPN and Bastion Hosts**  
 
-### 🛍️ Womora E-commerce Cloud Project *(Ongoing)*  
-- Multi-cloud deployment  
-- Microservices-based architecture with full CI/CD automation  
+### Smart Attendance System DevOps Project *(Ongoing)*  
+- Built and containerized the frontend application with Docker, published the image to Docker Hub.  
+- Deployed a cloud-based attendance web application on AWS EC2 using containerized workloads orchestrated by Ku-
+bernetes (kubeadm).  
 
 ---
 
 ## 🎓 Education
 
 - 🎓 **B.Tech in Artificial Intelligence** – *Parul University* (2021 – 2025)  
-- 📘 **Intermediate (MPC)** – *Sri Chaitanya Junior College* (2019 – 2021)  
+- 📘 **Intermediate (MPC)** – *Sri Chaitanya Junior College* (2019 – 2021)
+  
 
 ---
 
 ## 🏅 Certifications
 
-- 📜 **Infosys Springboard – AI Certification**  
+- ☁️ **AWS Cloud Practitioner – Amazon Web Services**
+- 📜 **Infosys Springboard – AI Certification**
 - 🧠 **Linux: Basic to Advanced – Udemy**  
 - 🤖 **Salesforce AI Associate**  
-- ☁️ **AWS Projects – Vcube Software Solutions Ltd**  
-
-📁 [**View Certificates**](https://drive.google.com/file/d/1FFVK5nuJVSpeuQo4PdAN8_cXX7kl1fZT/view?usp=sharing)
+- ☁️ **AWS Projects – Vcube Software Solutions Ltd**
+- 
 
 ---
 
