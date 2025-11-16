@@ -20,7 +20,7 @@ I'm a passionate **Cloud Developer** from India, focusing on **AWS**, **Azure**,
 - 🎓 **B.Tech in Artificial Intelligence** – *Parul University*  
 - 🌱 Exploring **multi-cloud deployments** and **AI integration**  
 - 🛠️ Passionate about **automation**, **IaC**, **serverless**, and **intelligent cloud apps**  
-- 🔭 Currently working on **Womora E-commerce Cloud Project**  
+- 🔭 Currently working on **Attendance Management Web Application – Cloud Deployment**  
 - 🤝 Looking to collaborate on **Cloud/DevOps Projects**  
 
 ---
